@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/AI/AI.java=UTF-8
+encoding//src/AI/Node.java=UTF-8
+encoding//src/controller/Controller.java=UTF-8
+encoding//src/model/Box.java=UTF-8
+encoding//src/model/EatBox.java=UTF-8
+encoding//src/model/Game.java=UTF-8
+encoding//src/model/HighScoreModel.java=UTF-8
+encoding//src/model/Move.java=UTF-8
+encoding//src/model/OnePlayer.java=UTF-8
+encoding//src/model/Player.java=UTF-8
+encoding//src/model/TwoPlayer.java=UTF-8
+encoding//src/view/BoardView.java=UTF-8
+encoding//src/view/GameOver.java=UTF-8
+encoding//src/view/Help.java=UTF-8
+encoding//src/view/HighScoreView.java=UTF-8
